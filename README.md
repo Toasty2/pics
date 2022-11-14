@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Unsplash Pictures App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses React to search and display images from Unsplash using API requests. An API key is required in /src/api/unsplash.js 
 
 ## Available Scripts
 
